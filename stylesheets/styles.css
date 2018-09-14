@@ -1,0 +1,32 @@
+
+#toolbarbox {
+    /* background-color: #ffffff; */
+    background-image: url(../images/footer.png);
+    height: 60px;
+}
+
+#logo{
+    float: left;
+    margin: 15px;
+    font-size: xx-large;
+}
+
+#menu {
+    float: right;
+    margin: 15px;
+    font-size: x-large;
+    
+}
+
+body{
+    border: 0px;
+    margin: 0px;
+    width:auto;
+    height:auto;
+    background: url(../images/bg_home.jpg) no-repeat;
+}
+
+img {
+    vertical-align: middle;
+    margin: 5px;
+  }
