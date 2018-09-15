@@ -1,0 +1,36 @@
+@font-face {
+    font-family: additionalFonts;
+    src: url(../scripts/ostrich-sans-rounded.woff);
+}
+
+
+.toolbarbox {
+    background-image: url(../images/footer.png);
+    height: 60px;
+    width: 100%;
+    top: 0;
+    position: fixed;
+}
+
+.logo{
+    float: left;
+    margin: 15px;
+    font-size: xx-large;
+    font-family: additionalFonts;
+}
+
+.menu {
+    float: right;
+    margin: 15px;
+    font-size: x-large;
+    font-family: additionalFonts;
+}
+
+a{
+    color: black;
+    transition: background-color 0.1s;
+}
+
+a:hover{
+    background-color: #71f1b6;
+}

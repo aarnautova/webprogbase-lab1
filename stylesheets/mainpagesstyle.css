@@ -1,0 +1,52 @@
+.infobox {
+    background-image: url(../images/footer.png);
+    margin-left: 40%;
+    margin-top: 15%;
+    padding: 0;
+    border: 2px solid #cdcdcd;
+    font-size: large;
+}
+
+.infobox h1{
+    margin: 0;
+}
+
+.aboutbox{
+    background-image: url(../images/footer.png);
+    margin-left: 40%;
+    margin-top: 5%;
+    padding: 0;
+    border: 2px solid #cdcdcd;
+    text-align: center;
+}
+
+
+body{
+    border: 0px;
+    margin: 0px;
+    width: 100%;
+    height:auto;
+    background: url(../images/bg_home.jpg) no-repeat;
+    font-family: 'Oswald', sans-serif;
+}
+
+img {
+    vertical-align: middle;
+    margin: 5px;
+  }
+
+  table {
+    border-collapse: collapse;
+    margin: 2%;
+}
+
+table, th, td {
+    border: 1px solid #b1adad;
+    padding: 15px;
+}
+
+tr:hover {background-color: #71f1b6;}
+
+ul {
+    list-style: none;
+}
